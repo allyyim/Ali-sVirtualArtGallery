@@ -29,11 +29,23 @@
             "file": "Dear Society.jpg"
         },
         {
+            "title": "dimension",
+            "file": "dimension.jpg"
+        },
+        {
+            "title": "Capricious Enhancement",
+            "file": "enhance.jpg"
+        },
+        {
+            "title": "Freedom",
+            "file": "freedom.jpg"
+        },
+        {
             "title": "Garden of Love",
             "file": "garden of love.jpg"
         },
         {
-            "title": "Goddess",
+            "title": "Goddess of Illusion",
             "file": "goddess.jpg"
         },
         {
@@ -45,12 +57,20 @@
             "file": "Interlude.jpg"
         },
         {
-            "title": "It'll Be Alright",
+            "title": "It'll be Alright",
             "file": "itokay.jpg"
+        },
+        {
+            "title": "Mind of Illusions",
+            "file": "mind illusions.jpg"
         },
         {
             "title": "Mars: God of War",
             "file": "mrs.jpg"
+        },
+        {
+            "title": "Once Upon A Dream",
+            "file": "once.jpg"
         },
         {
             "title": "Purity of Love",
@@ -61,8 +81,8 @@
             "file": "Purple Love.jpg"
         },
         {
-            "title": "Once Upon A Dream",
-            "file": "once.jpg"
+            "title": "Sapphire Ocean",
+            "file": "Sapphire Ocean.jpg"
         },
         {
             "title": "Self-Portrait",
@@ -77,44 +97,44 @@
             "file": "tearful.jpg"
         },
         {
-            "title": "The Universe is Your Mind",
-            "file": "universe.jpg"
-        },
-        {
-            "title": "Freedom",
-            "file": "freedom.jpg"
-        },
-        {
-            "title": "Illusions of the Mind",
-            "file": "mind illusions.jpg"
-        },
-        {
-            "title": "The World is At Your Fingertips",
+            "title": "The World Is At Your Finger Tips",
             "file": "the world.jpg"
         },
         {
-            "title": "Purple Love",
-            "file": "Purple Love.jpg"
-        },
-        {
-            "title": "Diamond Bubble",
-            "file": "bubble.jpg"
-        },
-        {
-            "title": "Capricious Enhancement",
-            "file": "enhancement.jpg"
-        },
-        {
-            "title": "The Dimensionality of Dreams",
-            "file": "tearful.jpg"
-        },
-        {
-            "title": "Thread of Words",
+            "title": "Thread of Life",
             "file": "thread.jpg"
         },
         {
-            "title": "Sapphire Ocean",
-            "file": "Sapphire Ocean.jpg"
+            "title": "Hand of God",
+            "file": "Hand of God.jpg"
+        },
+        {
+            "title": "A Hero's Quest",
+            "file": "hero.jpg"
+        },
+        {
+            "title": "Library of Dreams",
+            "file": "Library.jpg"
+        },
+        {
+            "title": "Portrait of Pain",
+            "file": "Pain.jpg"
+        },
+        {
+            "title": "Illusions of Life",
+            "file": "Illusions of Life.jpg"
+        },
+        {
+            "title": "Diamond Bubble",
+            "file": "Diamond Bubble.jpg"
+        },
+        {
+            "title": "Behind the Mask",
+            "file": "Behind.jpg"
+        },
+        {
+            "title": "Vast Universe",
+            "file": "universe.jpg"
         }
     ]
 }
